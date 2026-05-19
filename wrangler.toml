@@ -1,0 +1,7 @@
+name = "api-proxy"
+main = "src/index.js"
+compatibility_date = "2026-05-19"
+
+routes = [
+    { pattern = "api.jerryxf.net/*", zone_name = "jerryxf.net" }
+]
