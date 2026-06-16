@@ -1,4 +1,4 @@
-# api-proxy
+# api-proxy (jerryxf)
 
 Cloudflare Worker that proxies `api.jerryxf.net` to a Google Cloud Run service (`northamerica-northeast1`).
 
